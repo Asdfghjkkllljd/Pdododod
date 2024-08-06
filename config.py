@@ -8,7 +8,7 @@ LOSE_IMAGE = "lose.jpg" # Название файла с картинкой пр
 LOGS_ID = -1002226990800 # ID канала с оплатами
 
 RULES_LINK = "https://t.me/c/2154993852/4" # Ссылка на канал с правилами
-NEWS_LINK = "https://t.me/+YXO5t3AYIRgxZTdi # Ссылка на новостной канал
+NEWS_LINK = "https://t.me/+YXO5t3AYIRgxZTdi" # Ссылка на новостной канал
 OWNER_LINK = "https://t.me/SCAMUNIZDEL" # Ссылка на владельца/поддержку
 PEREHOD_LINK = "https://t.me/+YXO5t3AYIRgxZTdi" # Ссылка на переходник
 BETS_LINK = "https://t.me/extremecasinoo" # Ссылка на канал ставок
