@@ -5,7 +5,7 @@ BET_URL = "http://t.me/send?start=IVYuHgV3DGMT" # Ссылка на счет
 CRYPTOPAY_TOKEN = "249639:AASjYzwN8UY0fuBL37zy52D12SUNjNuDxwi" # Тут CryptoPay токен
 WIN_IMAGE = "win.jpg" # Название файла с картинкой выигрыша
 LOSE_IMAGE = "lose.jpg" # Название файла с картинкой проигрыша
-LOGS_ID = -1002226990800 # ID канала с оплатами
+LOGS_ID = -1002243436081 # ID канала с оплатами
 
 RULES_LINK = "https://t.me/c/2154993852/4" # Ссылка на канал с правилами
 NEWS_LINK = "https://t.me/+YXO5t3AYIRgxZTdi" # Ссылка на новостной канал
